@@ -1,0 +1,20 @@
+class:
+it is a blueprint or template to creating a object
+
+Object:
+It is a programming representation of real world entities in object 
+orientation approach
+
+
+object Orientation:
+It is a approach to solve real world problems using classes and objects
+
+Student Program:
+->In this program we creating two classes
+->And writing parameters of objects(Data Members) and Behaviors  of objects
+(Method Functions) in one class
+->In another class we writing main method under this creating a object 
+using reference variable
+->After with reference variable we giving values to DataMembers and
+calling a methods(Data Functions) 
+  
